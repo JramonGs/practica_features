@@ -1,3 +1,3 @@
 def suma (a, b):
-    "Esta funcion nomas suma dos numeros"
+    "Esta funcion suma dos numeros"
     return a + b
