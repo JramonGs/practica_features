@@ -1,1 +1,2 @@
+# Ignoramos la carpeta venv que contiene el entorno virtual de Python.
 venv/
